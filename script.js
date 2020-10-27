@@ -1,7 +1,7 @@
 let phrases = [
     { text: 'свапнешь джезет', image: 'https://media1.giphy.com/media/Wnqhk59dX1ZCg/giphy.gif' },
     { text: 'сьебешься в космос', image: 'https://i.pinimg.com/originals/c8/4f/04/c84f0405eb47c39edbecfb96a57a825f.gif' },
-    { text: 'ебанешь колы', image: 'https://media1.tenor.com/images/335579c44ce3d70a77616c884cff809b/tenor.gif?itemid=7880483' },
+    { text: 'ебанешь колы мазафака', image: 'https://media1.tenor.com/images/335579c44ce3d70a77616c884cff809b/tenor.gif?itemid=7880483' },
     { text: 'ворки 45', image: 'https://i.gifer.com/2MMr.gif' },
     { text: 'сгоняешь на сходняк', image: 'https://media3.giphy.com/media/69iv77x8e5NMA/giphy.gif' },
     { text: 'подрочишь борнауты', image: 'https://media1.giphy.com/media/8IYd8HDaHHhTi/giphy.gif' },
